@@ -1,4 +1,4 @@
-#variable is a container used to store a value/ any name that points a valur
+#variable is a container used to store a value/ any name that points a value
 #text should always be kept in double quotes
 #print is used to display a value
 # don't put a variable in double quotes
